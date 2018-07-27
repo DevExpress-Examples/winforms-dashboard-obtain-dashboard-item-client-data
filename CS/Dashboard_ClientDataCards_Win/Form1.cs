@@ -12,6 +12,7 @@ namespace Dashboard_ClientDataCards_Win {
     public partial class Form1 : XtraForm {
         public Form1() {
             InitializeComponent();
+            dashboardViewer1.DashboardItemClick += dashboardViewer1_DashboardItemClick;
         }
 
         // Handles the DashboardViewer.DashboardItemClick event.
