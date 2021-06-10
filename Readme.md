@@ -9,10 +9,16 @@ When the user clicks a card, the axis points placed on the ['Sparkline' axis](h
 
 ![](/images/winforms-dashboard-obtain-client-data-click.png)
 
-See Also:
+## Documentation
 
-* [How to: Display the Underlying Data for a Dashboard Item](https://github.com/DevExpress-Examples/winviewer-how-to-obtain-a-dashboard-items-underlying-data-for-a-clicked-visual-element-t129135)
+- [Obtain Underlying and Displayed Data](https://docs.devexpress.com/Dashboard/17269/winforms-dashboard/winforms-viewer/obtaining-underlying-and-displayed-data)
 
+## More Examples
 
+* [How to: Obtain a Dashboard Item's Client Data in the WinForms Viewer](https://github.com/DevExpress-Examples/how-to-obtain-a-dashboard-items-client-data-in-the-winforms-viewer-t140553)
+* [How to: Add Custom Interactivity to a Dashboard Displayed in the WinForms Viewer](https://github.com/DevExpress-Examples/how-to-add-custom-interactivity-to-a-dashboard-displayed-in-the-winforms-viewer-t189795)
+* [How to: Calculate and Display Totals for the Hidden Measure](https://github.com/DevExpress-Examples/winforms-dashboard-how-to-display-hidden-field-totals)
+* [How to: Display the Total Value above each Pie Chart in the WinForms Viewer](https://github.com/DevExpress-Examples/how-to-display-the-total-value-above-each-pie-chart)
+* [How to: Customize the Data Inspector Dialog](https://github.com/DevExpress-Examples/winforms-dashboard-data-inspector-customization)
 
 
