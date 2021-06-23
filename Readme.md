@@ -1,5 +1,10 @@
-# Dashboard for WinForms - How to Get and Process the Dashboard Item's Underlying Data
+<!-- default file list -->
+*Files to look at*:
 
+* [Form1.cs](./CS/Dashboard_ClientDataCards_Win/Form1.cs)
+<!-- default file list end -->
+
+# Dashboard for WinForms - How to Get and Process the Dashboard Item's Underlying Data
 
 The following example demonstrates how to get client data corresponding to a particular visual element using DashboardViewer's API.
 
