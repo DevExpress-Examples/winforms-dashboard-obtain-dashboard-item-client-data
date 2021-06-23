@@ -1,4 +1,4 @@
-# How to Get and Process the Dashboard Item's Underlying Data
+# Dashboard for WinForms - How to Get and Process the Dashboard Item's Underlying Data
 
 
 The following example demonstrates how to get client data corresponding to a particular visual element using DashboardViewer's API.
