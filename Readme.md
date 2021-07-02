@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Form1.cs](./CS/Dashboard_ClientDataCards_Win/Form1.cs)
+* [Form1.cs](./CS/Dashboard_ClientDataCards_Win/Form1.cs) (VB: [Form1.vb](./VB/Dashboard_ClientDataCards_Win/Form1.vb))
 <!-- default file list end -->
 
 # Dashboard for WinForms - How to Get and Process the Dashboard Item's Underlying Data
