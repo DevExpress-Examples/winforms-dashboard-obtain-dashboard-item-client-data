@@ -3,11 +3,6 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T140553)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
-
-* [Form1.cs](./CS/Dashboard_ClientDataCards_Win/Form1.cs) (VB: [Form1.vb](./VB/Dashboard_ClientDataCards_Win/Form1.vb))
-<!-- default file list end -->
 
 # Dashboard for WinForms - How to Get and Process the Dashboard Item's Underlying Data
 
@@ -19,6 +14,12 @@ When the user clicks a card, the axis points placed on the ['Sparkline' axis](h
 
 ![](/images/winforms-dashboard-obtain-client-data-click.png)
 
+<!-- default file list -->
+## Files to look at
+
+* [Form1.cs](./CS/Dashboard_ClientDataCards_Win/Form1.cs) (VB: [Form1.vb](./VB/Dashboard_ClientDataCards_Win/Form1.vb))
+<!-- default file list end -->
+
 ## Documentation
 
 - [Obtain Underlying and Displayed Data](https://docs.devexpress.com/Dashboard/17269/winforms-dashboard/winforms-viewer/obtaining-underlying-and-displayed-data)
@@ -29,5 +30,3 @@ When the user clicks a card, the axis points placed on the ['Sparkline' axis](h
 * [How to: Calculate and Display Totals for the Hidden Measure](https://github.com/DevExpress-Examples/winforms-dashboard-how-to-display-hidden-field-totals)
 * [How to: Display the Total Value above each Pie Chart in the WinForms Viewer](https://github.com/DevExpress-Examples/how-to-display-the-total-value-above-each-pie-chart)
 * [How to: Customize the Data Inspector Dialog](https://github.com/DevExpress-Examples/winforms-dashboard-data-inspector-customization)
-
-
