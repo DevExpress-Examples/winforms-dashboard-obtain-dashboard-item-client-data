@@ -4,9 +4,9 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# Dashboard for WinForms - How to Get and Process the Dashboard Item's Underlying Data
+# Dashboard for WinForms - How to Get and Process the Dashboard Item's Client Data
 
-The following example demonstrates how to get client data corresponding to a particular visual element using DashboardViewer's API.
+The following example shows how to use DashboardViewer's API and get client data corresponding to a particular visual element.
 
 In this example, the [DashboardViewer.DashboardItemClick](http://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.DashboardItemClick) event is handled to obtain client data for the [Card](http://docs.devexpress.com/Dashboard/15263) dashboard item and display this data in a [Chart control](http://docs.devexpress.com/WindowsForms/8117). 
 
@@ -14,11 +14,9 @@ When the user clicks a card, the axis points placed on the ['Sparkline' axis](h
 
 ![](/images/winforms-dashboard-obtain-client-data-click.png)
 
-<!-- default file list -->
 ## Files to look at
 
 * [Form1.cs](./CS/Dashboard_ClientDataCards_Win/Form1.cs) (VB: [Form1.vb](./VB/Dashboard_ClientDataCards_Win/Form1.vb))
-<!-- default file list end -->
 
 ## Documentation
 
