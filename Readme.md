@@ -14,7 +14,7 @@ When the user clicks a card, the axis points placed on the ['Sparkline' axis](h
 
 ![](/images/winforms-dashboard-obtain-client-data-click.png)
 
-## Files to look at
+## Files to Review
 
 * [Form1.cs](./CS/Dashboard_ClientDataCards_Win/Form1.cs) (VB: [Form1.vb](./VB/Dashboard_ClientDataCards_Win/Form1.vb))
 
